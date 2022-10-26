@@ -1,6 +1,6 @@
 # Discrete Marginal models for particle physics
 
-![Animation of bumphunt](bumphunt.gif)
+![h:400 center](bumphunt.gif)
 
 requires: 
 * [anesthetic](https://github.com/williamjameshandley/anesthetic) >=	2.0.0-beta.12
