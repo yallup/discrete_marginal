@@ -1,5 +1,7 @@
 # Discrete Marginal models for particle physics
 
+![Animation of bumphunt](bumphunt.gif)
+
 requires: 
 * [anesthetic](https://github.com/williamjameshandley/anesthetic) >=	2.0.0-beta.12
 * [PolyChord](https://github.com/PolyChord/PolyChordLite) >= 1.20.1

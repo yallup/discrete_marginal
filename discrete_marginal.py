@@ -285,6 +285,7 @@ def main():
     repeat_frac = 5  # 10
     prior_boost = 10
 
+    plotdir="analysis"
 
     #load event generator curve from file
     events = pd.read_csv("./events/events_rebin.csv",
